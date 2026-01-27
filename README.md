@@ -1,5 +1,8 @@
 # tcv
 
+[![npm version](https://badge.fury.io/js/tcv.svg)](https://www.npmjs.com/package/tcv)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/AslouneYahya)
+
 Command-line tool for converting between common data formats. All conversions happen locally.
 
 ## Installation
@@ -88,6 +91,14 @@ npm install
 npm link
 tcv --version
 ```
+
+## Support
+
+If you find this tool useful, consider sponsoring:
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor_on_GitHub-%E2%9D%A4-red?style=for-the-badge&logo=github)](https://github.com/sponsors/AslouneYahya)
+
+Your support helps maintain and improve this project!
 
 ## License
 
