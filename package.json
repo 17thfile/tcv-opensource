@@ -1,0 +1,50 @@
+{
+  "name": "tcv",
+  "version": "1.0.1",
+  "description": "TechConverter CLI - Convert JSON, YAML, Base64, Hex, and more from your terminal",
+  "main": "index.js",
+  "bin": {
+    "tcv": "bin/tcv.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "converter",
+    "json",
+    "yaml",
+    "base64",
+    "hex",
+    "binary",
+    "cli",
+    "devops",
+    "jwt",
+    "hash",
+    "cron"
+  ],
+  "author": "AslouneYahya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AslouneYahya/techconverter-client"
+  },
+  "homepage": "https://techconverter.me",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://github.com/sponsors/AslouneYahya"
+    },
+    {
+      "type": "custom",
+      "url": "https://techconverter.me"
+    }
+  ],
+  "dependencies": {
+    "commander": "^11.1.0",
+    "js-yaml": "^4.1.0",
+    "cronstrue": "^2.28.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
